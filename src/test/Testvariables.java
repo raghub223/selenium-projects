@@ -22,7 +22,8 @@ public class Testvariables {
 		
 		prop.store(fos, null);
 		//System.out.println("Hi I am from INDIA and updated the code");
-		System.out.println("Hi I am from USA and updated the code on top code from India");
+		//System.out.println("Hi I am from USA and updated the code on top code from India");
+		System.out.println("Hi I am from India, Architect team and updated the framework ");
 		
 		
 	}
