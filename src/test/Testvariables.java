@@ -21,6 +21,7 @@ public class Testvariables {
 		FileOutputStream fos = new FileOutputStream("C:\\Users\\ragha\\Study\\TestAutomation\\GlobalEnvVariables\\src\\data.properties");
 		
 		prop.store(fos, null);
+		System.out.println("Hi I am from INDIA and updated the code");
 		
 		
 	}
